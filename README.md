@@ -60,11 +60,11 @@ pip install colorama paramiko impacket sublist3r python-whois
    ```
 2. Torne o script executável (Linux/macOS):
    ```bash
-   chmod +x redtux_menu.py
+   chmod +x redtux 1.5 .py
    ```
 3. Execute:
    ```bash
-   python redtux_menu.py
+   python redtux 1.5 .py
    ```
 4. Navegue pelo **menu numérico**, digite o número da função, insira os parâmetros quando solicitado e pressione **Enter** para voltar ao menu principal.
 
