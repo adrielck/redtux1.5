@@ -55,7 +55,7 @@ pip install colorama paramiko impacket sublist3r python-whois
 ## Execução
 1. Clone ou copie o script:
    ```bash
-   git clone https://…/redtux.git
+   git clone [https://…/redtux.git](https://github.com/adrielck/redtux1.5.git)
    cd redtux
    ```
 2. Torne o script executável (Linux/macOS):
